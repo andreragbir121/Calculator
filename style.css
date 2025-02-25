@@ -41,6 +41,7 @@ body {
     opacity: 100%;
     color: #000000;
     background-image: linear-gradient(315deg, #ffffff 0%, #1e90ff 74%); 
+    
    }
 
   button:hover{
@@ -48,9 +49,5 @@ body {
     background-image: linear-gradient(315deg, #1e90ff 0%, #ffffff 74%);
     transition: 15s;
 
-  }
-  button:active {
-    background-color: #00bfff;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
+
   }
