@@ -1,5 +1,4 @@
 # Calculator
-# Basic Calculator
 #### Video Demo:  <https://www.youtube.com/watch?v=jDALFUHG5oE>
 #### Description: Basic calculator created using HTML/CSS and JavaScript, with the ability to calculator modula, subtraction, addition, division and multiplications
 ## Calculator Web Application
